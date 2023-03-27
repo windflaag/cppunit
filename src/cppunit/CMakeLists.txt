@@ -1,0 +1,11 @@
+add_library(cppunit
+    result.cpp
+    result_ok.cpp
+    result_err.cpp
+    suite.cpp
+    report.cpp
+    function.cpp
+    assert.cpp
+    suite_descriptor.cpp
+    scanner.cpp
+)
